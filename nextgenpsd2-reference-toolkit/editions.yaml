@@ -1,0 +1,5 @@
+# The {edition.*} variables of NextGenPSD2 Reference Toolkit: one block for every Self-hosted
+# version ({version} is filled in). No page uses them yet.
+self-hosted:
+  displayName: NextGenPSD2 Reference Toolkit {version}
+  productName: NextGenPSD2 Reference Toolkit
